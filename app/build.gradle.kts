@@ -1,0 +1,14 @@
+android {
+
+    namespace = "com.myredmm.app"
+
+    defaultConfig {
+        applicationId = "com.myredmm.app"
+
+        minSdk = 26
+        targetSdk = 33
+
+        versionCode = 1
+        versionName = "1.0"
+    }
+}
